@@ -1,0 +1,17 @@
+
+Webdesign Setup SCSS to CSS With Browser-sync :
+
+-------------------------------------------------
+
+Step 1 -> Download Wamp and add a project in WWW Directory.
+
+Step 2 -> Install Node.js version=11.9.0 "https://nodejs.org/download/release/v11.9.0/" this link to download "node-v11.9.0-x64.msi" file.
+	  
+	  (NOTE : For this setup, you need to compulsory add Node:11.9.0 and NPM:6.5.0)
+
+Step 3 -> Run Wamp Application and Add Project in WWW Directory.
+
+Step 4 -> " npm i "  (Note : Add Node module and check version npm:6.5.0)
+
+Step 5 -> " gulp " (Note : Run Project)
+
